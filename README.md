@@ -1,2 +1,2 @@
 # LeetCode-Problems
-Successful LeetCode problem solution codes
+This repository contains my solution codes for various Easy, Medium and Hard LeetCode problems.
